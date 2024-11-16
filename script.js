@@ -1,5 +1,4 @@
 
-
 document.addEventListener('DOMContentLoaded', () => {
   const inventoryData = [
       { id: 1, name: 'Paracetamol', category: 'Analgesics', supplier: 'MedSupply Co.', stock: 120 },
