@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
       { id: 3, name: 'Metformin', category: 'Antidiabetics', supplier: 'HealthLife', stock: 40 },  // Low stock
       { id: 4, name: 'Insulin', category: 'Antidiabetics', supplier: 'MediPlus', stock: 15 },  // Very low stock
       { id: 5, name: 'Atorvastatin', category: 'Cholesterol Meds', supplier: 'HealthLife', stock: 60 },
-      { id: 6, name: 'Amoxicillin', category: 'Antibiotics', supplier: 'MedSupply Co.', stock: 200 },
-      { id: 7, name: 'Omeprazole', category: 'Gastrointestinal', supplier: 'PharmaWorld', stock: 85 },
-      { id: 8, name: 'Ciprofloxacin', category: 'Antibiotics', supplier: 'MedSupply Co.', stock: 45 },
+    //   { id: 6, name: 'Amoxicillin', category: 'Antibiotics', supplier: 'MedSupply Co.', stock: 200 },
+    //   { id: 7, name: 'Omeprazole', category: 'Gastrointestinal', supplier: 'PharmaWorld', stock: 85 },
+    //   { id: 8, name: 'Ciprofloxacin', category: 'Antibiotics', supplier: 'MedSupply Co.', stock: 45 },
       // Add more medicines as needed
   ];
 
